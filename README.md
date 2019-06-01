@@ -4,6 +4,9 @@
 
 #### | react相关
 
+* [十个案例学会 React Hooks](<https://github.com/xianzou/blog/issues/2>)
+* [React Hooks实现异步请求实例—useReducer、useContext和useEffect代替Redux方案](<https://github.com/xianzou/blog/issues/3>)
+
 #### | javascript相关
 
 #### | css相关
