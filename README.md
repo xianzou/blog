@@ -9,6 +9,8 @@
 
 #### | javascript相关
 
+* [多维数组实现扁平化](<https://github.com/xianzou/blog/issues/5>)
+
 #### | css相关
 
 #### | 前端工程化
