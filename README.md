@@ -19,3 +19,7 @@
 
 #### | ES6相关
 
+#### | 兼容性
+* [IE10以下报错：SCRIPT438: 对象不支持“forEach”属性或方法](<https://github.com/xianzou/blog/issues/6>)
+
+
