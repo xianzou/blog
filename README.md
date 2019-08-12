@@ -18,6 +18,7 @@
 #### | 前端工程化
 
 * [webpack 配置babel,转化ES6 新的api](<https://github.com/xianzou/blog/issues/1>)
+* [检查webpack编译之后的代码是否存在ES5+代码](<https://github.com/xianzou/blog/issues/10>)
 
 #### | ES6相关
 
