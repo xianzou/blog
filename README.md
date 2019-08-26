@@ -6,6 +6,7 @@
 
 * [十个案例学会 React Hooks](<https://github.com/xianzou/blog/issues/2>)
 * [React Hooks实现异步请求实例—useReducer、useContext和useEffect代替Redux方案](<https://github.com/xianzou/blog/issues/3>)
+* [React组件化开发方式中6种类型组件](<https://github.com/xianzou/blog/issues/12>)
 
 #### | javascript相关
 
