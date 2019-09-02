@@ -25,8 +25,11 @@
 
 #### | ES6相关
 
+
 #### | 兼容性
 * [IE10以下报错：SCRIPT438: 对象不支持“forEach”属性或方法](<https://github.com/xianzou/blog/issues/6>)
 * [解决IE9下报错：无法获取未定义或 null 引用的属性“remove”](<https://github.com/xianzou/blog/issues/8>)
 
+#### | 其他
+* [如何将Github打造成免费的图床](<https://github.com/xianzou/blog/issues/14>)
 
