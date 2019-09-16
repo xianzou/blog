@@ -17,6 +17,7 @@
 #### | css相关
 * [CSS 常见布局方案](<https://github.com/xianzou/blog/issues/9>)
 * [伪元素before和after的content常见用法 ](<https://github.com/xianzou/blog/issues/11>)
+* [列表内不同宽高图片保持长宽比例一致 ](<https://github.com/xianzou/blog/issues/15>)
 
 #### | 前端工程化
 
