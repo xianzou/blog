@@ -34,4 +34,4 @@
 
 #### | 其他
 * [如何将Github打造成免费的图床](<https://github.com/xianzou/blog/issues/14>)
-
+* [搭建自己的unpkg服务来读取我们的私有库的包](<https://github.com/xianzou/blog/issues/17>)
