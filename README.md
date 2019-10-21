@@ -8,6 +8,7 @@
 * [React Hooks实现异步请求实例—useReducer、useContext和useEffect代替Redux方案](<https://github.com/xianzou/blog/issues/3>)
 * [React组件化开发方式中6种类型组件](<https://github.com/xianzou/blog/issues/12>)
 * [表单使用rc-form，校验并滚动到错误位置](<https://github.com/xianzou/blog/issues/13>)
+* [30行代码实现一个进度条组件](<https://github.com/xianzou/blog/issues/18>)
 
 #### | javascript相关
 
