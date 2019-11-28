@@ -21,7 +21,7 @@
 * [伪元素before和after的content常见用法 ](<https://github.com/xianzou/blog/issues/11>)
 * [列表内不同宽高图片保持长宽比例一致 ](<https://github.com/xianzou/blog/issues/15>)
 
-#### |HTML相关
+#### | HTML相关
 * [网页分享到QQ,QQ空间，微博，微信](<https://github.com/xianzou/blog/issues/20>)
 
 #### | 前端工程化
@@ -29,6 +29,8 @@
 * [webpack 配置babel,转化ES6 新的api](<https://github.com/xianzou/blog/issues/1>)
 * [检查webpack编译之后的代码是否存在ES5+代码](<https://github.com/xianzou/blog/issues/10>)
 * [处理IE9不支持webpack打包后体积依然过大的css文件](<https://github.com/xianzou/blog/issues/16>)
+* [webpack混用css modules](<https://github.com/xianzou/blog/issues/21>)
+* [使用webpack-chain新增scss配置](<https://github.com/xianzou/blog/issues/22>)
 
 #### | ES6相关
 
