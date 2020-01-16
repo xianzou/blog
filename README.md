@@ -15,6 +15,7 @@
 
 * [多维数组实现扁平化](<https://github.com/xianzou/blog/issues/5>)
 * [创建长度为 100 的数组,并且每个元素的值等于它的下标](<https://github.com/xianzou/blog/issues/7>)
+* [indexedDB插件库indb.js分页查询方法](<https://github.com/xianzou/blog/issues/23>)
 
 #### | css相关
 * [CSS 常见布局方案](<https://github.com/xianzou/blog/issues/9>)
