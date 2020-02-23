@@ -32,6 +32,7 @@
 * [处理IE9不支持webpack打包后体积依然过大的css文件](<https://github.com/xianzou/blog/issues/16>)
 * [webpack混用css modules](<https://github.com/xianzou/blog/issues/21>)
 * [使用webpack-chain新增scss配置](<https://github.com/xianzou/blog/issues/22>)
+* [Webpack打包“JavaScript heap out of memory”错误 ](<https://github.com/xianzou/blog/issues/24>)
 
 #### | ES6相关
 
