@@ -11,6 +11,7 @@
 * [30行代码实现一个进度条组件](<https://github.com/xianzou/blog/issues/18>)
 * [React Hooks详解](<https://github.com/xianzou/blog/issues/19>)
 * [useCallback使用场景](<https://github.com/xianzou/blog/issues/26>)
+* [React移动端添加路由转场动画](<https://github.com/xianzou/blog/issues/29>)
 
 #### | javascript相关
 
