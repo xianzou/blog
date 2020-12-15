@@ -21,6 +21,7 @@
 * [30行代码实现深拷贝](<https://github.com/xianzou/blog/issues/25>)
 
 #### | css相关
+* [移动端底部有菜单强烈建议使用Flex竖向布局，不要使用position: fixed将菜单定位到底部](<https://github.com/xianzou/blog/issues/30>)
 * [CSS 常见布局方案](<https://github.com/xianzou/blog/issues/9>)
 * [伪元素before和after的content常见用法 ](<https://github.com/xianzou/blog/issues/11>)
 * [列表内不同宽高图片保持长宽比例一致 ](<https://github.com/xianzou/blog/issues/15>)
