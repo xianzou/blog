@@ -12,6 +12,7 @@
 * [React Hooks详解](<https://github.com/xianzou/blog/issues/19>)
 * [useCallback使用场景](<https://github.com/xianzou/blog/issues/26>)
 * [React移动端添加路由转场动画](<https://github.com/xianzou/blog/issues/29>)
+* [React路由权限控制，附带错误边界，移动端路由转场动画，加载中动画](<https://github.com/xianzou/blog/issues/31>)
 
 #### | javascript相关
 
