@@ -20,6 +20,7 @@
 * [创建长度为 100 的数组,并且每个元素的值等于它的下标](<https://github.com/xianzou/blog/issues/7>)
 * [indexedDB插件库indb.js分页查询方法](<https://github.com/xianzou/blog/issues/23>)
 * [30行代码实现深拷贝](<https://github.com/xianzou/blog/issues/25>)
+* [判断是不是IOS和微信访问](<https://github.com/xianzou/blog/issues/32>)
 
 #### | css相关
 * [移动端底部有菜单强烈建议使用Flex竖向布局，不要使用position: fixed将菜单定位到底部](<https://github.com/xianzou/blog/issues/30>)
@@ -46,6 +47,7 @@
 #### | 兼容性
 * [IE10以下报错：SCRIPT438: 对象不支持“forEach”属性或方法](<https://github.com/xianzou/blog/issues/6>)
 * [解决IE9下报错：无法获取未定义或 null 引用的属性“remove”](<https://github.com/xianzou/blog/issues/8>)
+* [微信H5下IOS返回不刷新页面解决方案](<https://github.com/xianzou/blog/issues/32>)
 
 #### | 其他
 * [如何将Github打造成免费的图床](<https://github.com/xianzou/blog/issues/14>)
