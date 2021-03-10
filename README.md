@@ -14,6 +14,10 @@
 * [React移动端添加路由转场动画](<https://github.com/xianzou/blog/issues/29>)
 * [React路由权限控制，附带错误边界，移动端路由转场动画，加载中动画](<https://github.com/xianzou/blog/issues/31>)
 * [React超出指定行数显示全文](<https://github.com/xianzou/blog/issues/33>)
+* [移动端监听软键盘弹出和收起，区分Android和IOS](<https://github.com/xianzou/blog/issues/37>)
+* [获取Ant Design Mobile ListView 长列表滚动位置、设置滚动位置](<https://github.com/xianzou/blog/issues/36>)
+* [React实现绑定长按和点击事件](<https://github.com/xianzou/blog/issues/35>)
+* [Ant Design Mobile ListView 长列表 逻辑封装](<https://github.com/xianzou/blog/issues/34>)
 
 #### | javascript相关
 
