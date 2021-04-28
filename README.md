@@ -46,6 +46,7 @@
 * [使用webpack-chain新增scss配置](<https://github.com/xianzou/blog/issues/22>)
 * [Webpack打包“JavaScript heap out of memory”错误 ](<https://github.com/xianzou/blog/issues/24>)
 * [yarn安装依赖、构建依赖速度慢解决方案 ](<https://github.com/xianzou/blog/issues/27>)
+* [前端异常监控Sentry安装和使用问题汇总 ](<https://github.com/xianzou/blog/issues/40>)
 
 #### | ES6相关
 
