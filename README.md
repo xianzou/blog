@@ -33,9 +33,11 @@
 * [CSS 常见布局方案](<https://github.com/xianzou/blog/issues/9>)
 * [伪元素before和after的content常见用法 ](<https://github.com/xianzou/blog/issues/11>)
 * [列表内不同宽高图片保持长宽比例一致 ](<https://github.com/xianzou/blog/issues/15>)
+* [CSS3动画学习](https://github.com/xianzou/blog/issues/42)
 
 #### | HTML相关
 * [网页分享到QQ,QQ空间，微博，微信](<https://github.com/xianzou/blog/issues/20>)
+* [SVG基础学习](https://github.com/xianzou/blog/issues/41)
 
 #### | 前端工程化
 
