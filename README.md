@@ -49,6 +49,9 @@
 * [Webpack打包“JavaScript heap out of memory”错误 ](<https://github.com/xianzou/blog/issues/24>)
 * [yarn安装依赖、构建依赖速度慢解决方案 ](<https://github.com/xianzou/blog/issues/27>)
 * [前端异常监控Sentry安装和使用问题汇总 ](<https://github.com/xianzou/blog/issues/40>)
+* [sentry配置和错误主动上报实例 ](<https://github.com/xianzou/blog/issues/45>)
+* [Sentry结合rrweb实现用户操作录屏和错误场景录屏播放重现 ](<https://github.com/xianzou/blog/issues/44>)
+* [rrweb前端web页面录制与回放插件的使用和原理 ](<https://github.com/xianzou/blog/issues/43>)
 
 #### | ES6相关
 
