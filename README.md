@@ -55,7 +55,7 @@
 * [rrweb前端web页面录制与回放插件的使用和原理 ](<https://github.com/xianzou/blog/issues/43>)
 
 #### | ES6相关
-
+* [finally垫片用于支持Promise.finally ](<https://github.com/xianzou/blog/issues/47>)
 
 #### | 兼容性
 * [IE10以下报错：SCRIPT438: 对象不支持“forEach”属性或方法](<https://github.com/xianzou/blog/issues/6>)
