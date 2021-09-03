@@ -18,6 +18,7 @@
 * [获取Ant Design Mobile ListView 长列表滚动位置、设置滚动位置](<https://github.com/xianzou/blog/issues/36>)
 * [React实现绑定长按和点击事件](<https://github.com/xianzou/blog/issues/35>)
 * [Ant Design Mobile ListView 长列表 逻辑封装](<https://github.com/xianzou/blog/issues/34>)
+* [使用useSelector useDispatch 替代connect](<https://www.ahwgs.cn/dva-react-redux7-1.html>)
 
 #### | javascript相关
 
