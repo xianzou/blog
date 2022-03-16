@@ -20,6 +20,7 @@
 * [Ant Design Mobile ListView 长列表 逻辑封装](<https://github.com/xianzou/blog/issues/34>)
 * [使用useSelector useDispatch 替代connect](<https://www.ahwgs.cn/dva-react-redux7-1.html>)
 * [关于React Hook代码逻辑分层思考](<https://github.com/xianzou/blog/issues/48>)
+* [基于react-multi-clamp实现的多行文本收起展开](<https://github.com/xianzou/blog/issues/49>)
 
 #### | javascript相关
 
