@@ -30,6 +30,7 @@
 * [30行代码实现深拷贝](<https://github.com/xianzou/blog/issues/25>)
 * [判断是不是IOS和微信访问](<https://github.com/xianzou/blog/issues/32>)
 * [移动端问题记录](<https://github.com/xianzou/blog/issues/38>)
+* [两个位置经纬度之间直线距离计算](<https://github.com/xianzou/blog/issues/50>)
 
 #### | css相关
 * [移动端底部有菜单强烈建议使用Flex竖向布局，不要使用position: fixed将菜单定位到底部](<https://github.com/xianzou/blog/issues/30>)
