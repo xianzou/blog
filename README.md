@@ -39,6 +39,7 @@
 * [列表内不同宽高图片保持长宽比例一致 ](<https://github.com/xianzou/blog/issues/15>)
 * [CSS3动画学习](https://github.com/xianzou/blog/issues/42)
 * [图片加载失败后CSS样式处理最佳实践](https://github.com/xianzou/blog/issues/46)
+* [微信朋友圈图片九宫格排版自适应](https://github.com/xianzou/blog/issues/51)
 
 #### | HTML相关
 * [网页分享到QQ,QQ空间，微博，微信](<https://github.com/xianzou/blog/issues/20>)
